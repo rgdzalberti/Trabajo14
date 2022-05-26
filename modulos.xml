@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<modulos>
+	<modulo codigo="0483">
+		<titulo>Sistemas informáticos</titulo>
+		<abreviatura>SSII</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>1</curso>
+		<horas_semanales>6</horas_semanales>
+		<horas_totales>192</horas_totales>
+	</modulo>
+	<modulo codigo="0484">
+		<titulo>Bases de datos</titulo>
+		<abreviatura>BBDD</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>1</curso>
+		<horas_semanales>6</horas_semanales>
+		<horas_totales>192</horas_totales>
+	</modulo>
+	<modulo codigo="0485">
+		<titulo>Programación</titulo>
+		<abreviatura>PROG</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>1</curso>
+		<horas_semanales>8</horas_semanales>
+		<horas_totales>256</horas_totales>
+	</modulo>
+	<modulo codigo="0373">
+		<titulo>Lenguaje de Marcas y Sistemas de Gestión de la Información</titulo>
+		<abreviatura>LMSGI</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>1</curso>
+		<horas_semanales>4</horas_semanales>
+		<horas_totales>128</horas_totales>
+	</modulo>
+	<modulo codigo="0487">
+		<titulo>Entornos de desarrollo</titulo>
+		<abreviatura>EEDD</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>1</curso>
+		<horas_semanales>3</horas_semanales>
+		<horas_totales>96</horas_totales>
+	</modulo>
+	<modulo codigo="0617">
+		<titulo>Formación y Orientación Laboral</titulo>
+		<abreviatura>FOL</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>1</curso>
+		<horas_semanales>3</horas_semanales>
+		<horas_totales>96</horas_totales>
+	</modulo>
+	<modulo codigo="0488">
+		<titulo>Desarrollo de Interfaces</titulo>
+		<abreviatura>DI</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>2</curso>
+		<horas_semanales>7</horas_semanales>
+		<horas_totales>147</horas_totales>
+	</modulo>
+	<modulo codigo="0489">
+		<titulo>Programación multimedia y dispositivos móviles</titulo>
+		<abreviatura>PMDM</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>2</curso>
+		<horas_semanales>4</horas_semanales>
+		<horas_totales>84</horas_totales>
+	</modulo>
+	<modulo codigo="0490">
+		<titulo>Programación de Servicios y Procesos</titulo>
+		<abreviatura>PSP</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>2</curso>
+		<horas_semanales>3</horas_semanales>
+		<horas_totales>63</horas_totales>
+	</modulo>
+	<modulo codigo="0491">
+		<titulo>Sistemas de Gestión Empresarial</titulo>
+		<abreviatura>SGE</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>2</curso>
+		<horas_semanales>4</horas_semanales>
+		<horas_totales>84</horas_totales>
+	</modulo>
+	<modulo codigo="0494">
+		<titulo>Empresa e Iniciativa Emprendedora</titulo>
+		<abreviatura>EMINEM</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>2</curso>
+		<horas_semanales>4</horas_semanales>
+		<horas_totales>84</horas_totales>
+	</modulo>
+	<modulo codigo="0486">
+		<titulo>Acceso a Datos</titulo>
+		<abreviatura>HLC</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>2</curso>
+		<horas_semanales>5</horas_semanales>
+		<horas_totales>105</horas_totales>
+	</modulo>
+	<modulo codigo="0619">
+		<titulo>Horas de Libre Configuración</titulo>
+		<abreviatura>HLC</abreviatura>
+		<ccff>DAM</ccff>
+		<curso>2</curso>
+		<horas_semanales>3</horas_semanales>
+		<horas_totales>63</horas_totales>
+	</modulo>
+</modulos>
